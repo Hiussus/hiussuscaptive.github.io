@@ -1,6 +1,6 @@
 # Captive Portal mit SMS-Verifizierung
 
-Dieses Projekt ist ein Captive Portal Test zur mobilen Benutzerverifizierung via SMS (E-Mail to SMS Gateway).
+Dieses Projekt ist ein Captive Portal zur mobilen Benutzerverifizierung via SMS (E-Mail to SMS Gateway).
 
 ## 🔐 Features
 - Eingabe von Mobilnummer
